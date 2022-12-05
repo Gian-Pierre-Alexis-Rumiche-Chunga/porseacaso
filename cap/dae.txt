@@ -1,0 +1,2 @@
+muvlw 0x500
+clear 0x503
